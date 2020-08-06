@@ -1,6 +1,6 @@
-#
-<h1><center>Usage<center><h1>
-<h3><center>Color</center></h3>
+# Usage
+
+<h3><center>Color:</center></h3>
 <br>
 
 To change the color of your name the commands are:
