@@ -2,19 +2,21 @@
 
 
 <h3><center>Color</center></h3>
+<br>
 
-To change the color of your name the commands are:
+**To change the color of your name the commands are:
 
  - /namecolor
  - /nc
 
 
-For colors, the commands are used as follows:
+
+**For colors, the commands are used as follows:
 
  - /namecolor [color identifier]
  -  /nc [color identifier]
 
-To reset your name, run the command(s):
+**To reset your name, run the command(s):
 
  - /namecolor reset
  - /nc reset
