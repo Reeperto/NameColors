@@ -1,22 +1,25 @@
 # Usage
 
 
-### Color
+<h3><center>Color</center></h3>
 
-To change the color of your name the commands:
+To change the color of your name the commands are:
 
  - /namecolor
  - /nc
 
-are used.
 
 For colors, the commands are used as follows:
 
  - /namecolor [color identifier]
  -  /nc [color identifier]
 
+To reset your name, run the command(s):
 
-### Color Identifier Table:
+ - /namecolor reset
+ - /nc reset
+
+<h3><center>Color Identifier Table:</center></h3>
 
 | Color Identifier 	|                                            Color                                            	|
 |:----------------:	|:-------------------------------------------------------------------------------------------:	|
@@ -36,5 +39,4 @@ For colors, the commands are used as follows:
 |         7        	|     <span style="color: #ffffff; background-color: #aaaaaa;padding: 0 3px;">Gray</span>     	|
 |         8        	|   <span style="color: #ffffff; background-color: #555555;padding: 0 3px;">Dark Gray</span>  	|
 |         0        	|    <span style="color: #ffffff; background-color: #000000; padding: 0 3px;">Black</span>    	|
-
 
