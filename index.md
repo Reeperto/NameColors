@@ -1,6 +1,6 @@
 # Usage
 
-<h3><center>Color:</center></h3>
+<h3><center>Color and Styling:</center></h3>
 <br>
 
 To change the color of your name the commands are:
@@ -8,18 +8,29 @@ To change the color of your name the commands are:
  - /namecolor
  - /nc
 
-
-
 For colors, the commands are used as follows:
 
  - /namecolor [color identifier]
  -  /nc [color identifier]
 
+For styling, the commands are used as follows:
+
+ - /namecolor [color identifier] [style identifier]
+ -  /nc [color identifier] [style identifier]
+ 
+The 2 style identifiers are:
+
+ - bold
+ - italic
+ 
+**NOTE: both cannot be applied at the same time**
+
 To reset your name, run the command(s):
 
  - /namecolor reset
  - /nc reset
-
+ 
+ 
 <h3><center>Color Identifier Table:</center></h3>
 
 | Color Identifier 	|                                            Color                                            	|
@@ -40,4 +51,16 @@ To reset your name, run the command(s):
 |         7        	|     <span style="color: #ffffff; background-color: #aaaaaa;padding: 0 3px;">Gray</span>     	|
 |         8        	|   <span style="color: #ffffff; background-color: #555555;padding: 0 3px;">Dark Gray</span>  	|
 |         0        	|    <span style="color: #ffffff; background-color: #000000; padding: 0 3px;">Black</span>    	|
+
+
+
+
+
+# Permissions (for server owners)
+
+**NameColors only uses one permission:**
+
+ - namecolors.canChangeColor
+
+Use this permission to give players access to the /namecolor or /nc command
 
