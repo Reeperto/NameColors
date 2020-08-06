@@ -7,3 +7,5 @@
  - namecolors.canChangeColor
 
 Use this permission to give players access to the /namecolor or /nc command
+
+<span style="color:red">some **This is Red Bold.** text</span>
