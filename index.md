@@ -53,7 +53,9 @@ To reset your name, run the command(s):
 |         0        	|    <span style="color: #ffffff; background-color: #000000; padding: 0 3px;">Black</span>    	|
 
 
-
+<br>
+<br>
+<br>
 
 
 # Permissions (for server owners)
@@ -64,3 +66,7 @@ To reset your name, run the command(s):
 
 Use this permission to give players access to the /namecolor or /nc command
 
+<br>
+<br>
+<br>
+<br>
