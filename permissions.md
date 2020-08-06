@@ -1,5 +1,7 @@
 # Permissions
 
+
+
 **NameColors only uses one permission:**
 
  - namecolors.canChangeColor
