@@ -1,6 +1,4 @@
 <h1><center>Usage<center><h1>
-
-
 <h3><center>Color</center></h3>
 <br>
 
