@@ -1,4 +1,4 @@
-# Usage
+<h1><center>NameColors</center></h1>
 
 <h3><center>Color and Styling:</center></h3>
 <br>
